@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 timedatectl set-ntp true
 
 # 分区
