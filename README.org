@@ -1,6 +1,6 @@
 * ohMyArch
 ** 效果
-  [[file:screenrecord.mp4]] 
+   [[file:screenshot.gif]] 
 ** 使用
    #+begin_src sh
    curl -o- -L https://raw.githubusercontent.com/devbins/ohMyArch/master/install.sh | bash -s
